@@ -24,3 +24,12 @@ IBM Data Analyst Capstone Project (Coursera). I collected job and salary data, a
 Python, pandas, BeautifulSoup, Excel, PowerPoint
 
 Data source: Stack Overflow Developer Survey (provided by the IBM course).
+## Charts
+
+![Job postings by location](charts/job-postings.png)
+![Popular languages by salary](charts/popular-languages-salary.png)
+![Language trends](charts/language-trends.png)
+![Database trends](charts/database-trends.png)
+![Dashboard: current technology](charts/dashboard-current-technology.png)
+![Dashboard: future trends](charts/dashboard-future-trends.png)
+![Dashboard: demographics](charts/dashboard-demographics.png)
